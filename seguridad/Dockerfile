@@ -1,5 +1,5 @@
 FROM eclipse-temurin:17-jdk-alpine AS build
-WORKDIR
+WORKDIR /app
 COPY . .
 RUN chmod +x mvnw && ./mvnw clean package -DskipTests
 
