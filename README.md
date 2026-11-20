@@ -1,2 +1,6 @@
 # Modulo-Seguridad
 Modulo de Seguridad con Java Spring Boot
+Este proyecto contiene un proyecto elaborado con Java Spring Boot para el backend y frontend utilizamos, HTML, CSS, JavaScript.
+Se manejaron 4 tablas de una base de datos en PostgreSQL, Rol, Usuario, Tipo Privacidad y Rol Fan Page.
+Para cada tabla se realizaron los metodos de: agregar, buscar, listar, modificar y eliminar.
+Se emplearon metodos propios que se desarrollaron en SQL en vez de utilizar los metodos basicos de Spring.
